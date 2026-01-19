@@ -56,5 +56,5 @@
         "temp/": true,
         "Temp/": true
     },
-    "dotnet.defaultSolution": "2dplatformer.sln"
+    "dotnet.defaultSolution": "2dPlatformer.sln"
 }
